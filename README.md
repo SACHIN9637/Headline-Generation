@@ -47,13 +47,10 @@ You can install the required packages using the following command:
 ##  Clone the repository:
 
 git clone https://github.com/SACHIN9637/headline-generation.git
+
 cd headline-generation
 
 
 ```bash
 pip install transformers torch nltk spacy
 # Headline-Generation
-
-Clone the repository:
-git clone https://github.com/your-username/headline-generation.git
-cd headline-generation
